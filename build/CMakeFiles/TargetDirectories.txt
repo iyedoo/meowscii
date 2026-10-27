@@ -1,0 +1,3 @@
+/home/iyed/dev/meowscii/build/CMakeFiles/meowscii.dir
+/home/iyed/dev/meowscii/build/CMakeFiles/edit_cache.dir
+/home/iyed/dev/meowscii/build/CMakeFiles/rebuild_cache.dir
